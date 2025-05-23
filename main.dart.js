@@ -80084,7 +80084,7 @@ A.JA.prototype={
 M(a){return new A.Mc(B.yE,15,15,A.an9(3,new A.a67(),!0,t.l7),null)}}
 A.a67.prototype={
 $1(a){var s=null
-return new A.qu([new A.Au("voltunes-web.png","Voltunes ERP","ERP solution for integrated poultry management.Running a poultry farm requires precision, consistency, and control. Voltunes ERP is your all-in-one solution for modern poultry management\u2014streamlining daily operations",A.f2("https://voltunes.com/id/pages/voltunes-poultry-erp-id.html",0,s)),new A.Au("voltunes-mobile.png","Voltunes Mobile","Voltunes mobile apps offers a modern solution for managing your farm\u2014from recording daily weight and mortality, tracking stock usage and inventory, and logging harvests\u2014all in one streamlined platform.",A.f2("https://voltunes.com/id/pages/product-detail-id.html",0,s)),new A.Au("visit-flow.png","Visit Flow Mobile","Visit Flow Mobile Apps is the Visiton app simplifies every step of your visit process\u2014from planning and routing, to real-time check-ins, task execution, and post-visit reports.",A.f2("https://visitflow.flexurio.com/",0,s))][a],s)},
+return new A.qu([new A.Au("assets/voltunes-web.png","Voltunes ERP","ERP solution for integrated poultry management.Running a poultry farm requires precision, consistency, and control. Voltunes ERP is your all-in-one solution for modern poultry management\u2014streamlining daily operations",A.f2("https://voltunes.com/id/pages/voltunes-poultry-erp-id.html",0,s)),new A.Au("assets/voltunes-mobile.png","Voltunes Mobile","Voltunes mobile apps offers a modern solution for managing your farm\u2014from recording daily weight and mortality, tracking stock usage and inventory, and logging harvests\u2014all in one streamlined platform.",A.f2("https://voltunes.com/id/pages/product-detail-id.html",0,s)),new A.Au("assets/visit-flow.png","Visit Flow Mobile","Visit Flow Mobile Apps is the Visiton app simplifies every step of your visit process\u2014from planning and routing, to real-time check-ins, task execution, and post-visit reports.",A.f2("https://visitflow.flexurio.com/",0,s))][a],s)},
 $S:504}
 A.qu.prototype={
 M(a){var s=null,r=A.pI(new A.aw(8,8)),q=A.aY(4281545523),p=this.c,o=A.Zq(A.an4(!1,!0,new A.bQ(B.CK,A.arr(p.a,B.kW),s),s,!0,s,s,s,s,s,s,s,s,s,new A.a_O(this,a),s,s,s,s),2),n=A.cZ(p.b,s,s,s,A.cE(s,s,B.aJ,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)
@@ -80132,7 +80132,7 @@ A.Xr.prototype={
 $1(a){return new A.kR(!0,null)},
 $S:506}
 A.GO.prototype={
-M(a){return new A.Ga(new A.c3(new A.aw(16,16),B.v,new A.aw(16,16),B.v),A.arr("dev_clear.png",B.kW),null)}}
+M(a){return new A.Ga(new A.c3(new A.aw(16,16),B.v,new A.aw(16,16),B.v),A.arr("assets/dev_clear.png",B.kW),null)}}
 A.q9.prototype={
 M(a){var s=null
 return new A.hk(this.e,s,s,new A.bQ(B.CL,A.aaM(A.cZ(this.c,s,s,s,A.EU().$1$textStyle(A.cE(s,s,B.aJ,s,s,s,s,s,s,s,s,14,s,s,B.j1,s,0.9,!0,s,0.25,s,s,s,s,s,s)),s,s),this.d,s),s),s)}}
